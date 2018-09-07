@@ -1,21 +1,22 @@
-# vuewebapp
+# 腾讯新闻 app 的 H5 页面
+> 使用 vue + mintui 进行开发
+> 模仿【腾讯新闻App】实现的手机H5页面制作
 
-> A Vue.js project
+# 完成功能：
+> 页面布局（底部 tab 切换）
+> 新闻列表 tab 切换
+> 新闻列表的下拉刷新
+> 新闻列表触底加载更多数据
 
 ## Build Setup
 
 ``` bash
-# install dependencies
+# 安装依赖
 npm install
 
 # serve with hot reload at localhost:8080
 npm run dev
 
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+本项目仅用户开发学习目的。
